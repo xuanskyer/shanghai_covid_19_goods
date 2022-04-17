@@ -9,3 +9,5 @@ sort food.txt | uniq -c | sort -n > ./food_stat.txt
 ```
 ## 基础类
 cook.txt
+
+## 一个在线分词统计工具 ：[分词统计](https://jieba.qtter.com)
